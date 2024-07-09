@@ -1,5 +1,4 @@
 package com.mycompany.sueldoempleados;
-
 import java.util.HashMap;
 import java.util.Map;
 
